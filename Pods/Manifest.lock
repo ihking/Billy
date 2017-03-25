@@ -1,0 +1,26 @@
+PODS:
+  - Alamofire (4.4.0)
+  - Hero (0.3.6)
+  - Material (2.6.0):
+    - Material/Core (= 2.6.0)
+  - Material/Core (2.6.0)
+  - NVActivityIndicatorView (3.5.1)
+  - SwiftyJSON (3.1.4)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.3)
+  - Hero
+  - Material
+  - NVActivityIndicatorView
+  - SwiftyJSON
+
+SPEC CHECKSUMS:
+  Alamofire: dc44b1600b800eb63da6a19039a0083d62a6a62d
+  Hero: d3c6f4dd80cdcdbb339be64e57ae3b5c3ab9938c
+  Material: f7165e4f995fda1d1ba7737a561cbfa1b80e72b6
+  NVActivityIndicatorView: 075563b3547445ebcff840e3297ce9dd4a23731f
+  SwiftyJSON: c2842d878f95482ffceec5709abc3d05680c0220
+
+PODFILE CHECKSUM: 4b4a72b97abc9bc7e9a0f4c84474c1991b0ed857
+
+COCOAPODS: 1.2.1.beta.1
